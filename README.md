@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C!
 - 💞️ I'm not sure to collaborate, my coding is such a mess
 - 📫 How to reach me: teyoonwoo@gmail.com
-- 👾 Discord:
+- 👾 Discord:do_ot
 <!---
 Do0-code/Do0-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
